@@ -1,0 +1,13 @@
+h2 {
+    font-size: 18px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.customer-form {
+    display: none;
+}
+
+#citizen-form {
+    display: block;
+}
